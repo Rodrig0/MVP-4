@@ -9,3 +9,6 @@ Obs1: Ao preencher as informações dos campos referentes ao Porto de Embarque, 
 
 Obs2: Caso o valor retornado na coluna "Verificar" seja igual a 0, significa que o passageiro não sobreviveu. Retornando o valor 1,
 o passageiro terá sobrevivido.
+
+Obs3: LINK do Modelo construído no Google Colab:
+https://colab.research.google.com/drive/1RJU9kV9JMlQD-aSQxKPev-Dkyt2SQJ32#scrollTo=nQf_VFWy5Qsm
