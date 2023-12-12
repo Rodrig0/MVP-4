@@ -12,3 +12,6 @@ o passageiro terá sobrevivido.
 
 Obs3: LINK do Modelo construído no Google Colab:
 https://colab.research.google.com/drive/1RJU9kV9JMlQD-aSQxKPev-Dkyt2SQJ32#scrollTo=nQf_VFWy5Qsm
+
+Obs4: LINK do vídeo:
+https://drive.google.com/file/d/17k0EeWoCprWOI70ep5rCeZPGiPq8NEHC/view?usp=share_link
